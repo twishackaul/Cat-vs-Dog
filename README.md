@@ -1,2 +1,2 @@
-## Dog vs Cat Object Detection and Classification
+## Dog vs Cat Object Detection & Classification
 
